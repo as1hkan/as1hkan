@@ -3,7 +3,9 @@
 <p align="left">Unity & C# Developer</p>
 
 <h2 align="left">About me</h2>
-<p align="left">I'm Ashkan Alizadeh, a Unity developer working on 2D and 3D projects for mobile and PC. Currently, I'm developing a project called Memory Lane.</p>
+<p align="left">
+  I'm Ashkan Alizadeh, a Unity developer working on 2D and 3D projects for mobile and PC. Currently, I'm developing a project called Memory Lane.
+</p>
 
 <h2 align="left">Skills</h2>
 
