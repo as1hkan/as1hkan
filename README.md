@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="left">Ashkan Alizadeh</h1>
 
-<!--
-**as1hkan/as1hkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Unity & C# Developer</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I'm Ashkan Alizadeh, a Unity developer working on 2D and 3D projects for mobile and PC. Currently, I'm developing a project called Memory Lane.</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<h3 align="left">Programming Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools & Technologies</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/as1hkan/as1hkan/output/snake.svg" alt="Snake animation" />
+
+###
