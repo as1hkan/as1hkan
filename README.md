@@ -18,12 +18,16 @@
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="left">Languages</h3>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
 
 ###
