@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Unity & C# Developer</p>
+<p align="left">Software Developer | C# & Unity → Security</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">I'm Ashkan Alizadeh, a Unity developer working on 2D and 3D projects for mobile and PC. Currently, I'm developing a project called Memory Lane.</p>
+<p align="left">
+I'm Ashkan Alizadeh, a developer with a background in game development using Unity and C#, with experience building 2D and 3D projects for mobile and PC.
+
+Currently, I'm moving toward network security, focusing on understanding systems, how they work under the hood, and learning security concepts in practice.
+
+I'm passionate about exploring how systems operate at a deeper level and writing clean, efficient, and maintainable code.
+</p>
 
 ###
 
@@ -18,36 +24,22 @@
 
 ###
 
-<h3 align="left">Programming Languages</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-</div>
-
-###
-
-<h3 align="left">Tools & Technologies</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
